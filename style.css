@@ -69,7 +69,7 @@ h1{
 
 .loginbox input[type="submit"]:hover{
   text-decoration: none;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 20px;
   color: darkgrey;
 }
