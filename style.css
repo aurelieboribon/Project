@@ -138,10 +138,11 @@ color: darkgrey;
 
 .loginbox2 a{
 text-decoration: none;
-font-size: 12px;
+font-size: 16px;
 line-height: 20px;
 color: darkgrey;
 }
 
 .loginbox2 a:hover{
-  color: #ffc107;
+color: #ffc107;
+}
