@@ -84,3 +84,20 @@ h1{
 .loginbox a:hover{
     color: #ffc107;
 }
+
+loginbox input[type="button"]{
+  border: none;
+  outline: none;
+  height: 40px;
+  background: #fb2525;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+.loginbox input[type="button"]:hover{
+text-decoration: none;
+font-size: 12px;
+line-height: 20px;
+color: darkgrey;
+}
