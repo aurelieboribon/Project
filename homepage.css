@@ -10,4 +10,5 @@ body{
 h1{
     top: 10%;
     left: 40%;
+    transform: translate(-50%,-50%);
 }
