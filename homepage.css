@@ -12,9 +12,23 @@ h1{
     right: 40%;
 }
 
-.dimention{
+.dimension{
     width: 200px; 
     height: 200px;
     border-style: hidden;
     text-align: center;
 }
+
+.row{
+    display:flex;
+    text-align: center;
+}
+
+.col{
+    flex-grow: 1;
+}
+
+.font1{
+    font-family: 'Noto Sans', sans-serif;
+}
+    
