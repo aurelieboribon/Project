@@ -9,10 +9,10 @@ body{
 
 .encrypt{
     width: 450px;
-    height: 450px;
+    height: 500px;
     background: grey;
     color: #fff;
-    top: 40%;
+    top: 30%;
     left: 50%;
     position: absolute;
     transform: translate(-50%,-50%);
