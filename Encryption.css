@@ -1,4 +1,4 @@
-.field{
+.control{
     width: 320px;
     height: 420px;
     background: #000;
@@ -12,7 +12,7 @@
 }
 
 
-.field input[type="text"]{
+.control input[type="text"]{
     border: none;
     border-bottom: 1px solid #fff;
     background: transparent;
