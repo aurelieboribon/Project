@@ -10,4 +10,11 @@ body{
 h1{
     top: 10%;
     right: 40%;
-  
+}
+
+.dimention{
+    width: 200px; 
+    height: 200px;
+    border-style: hidden;
+    text-align: center;
+}
