@@ -11,6 +11,16 @@
     padding: 70px 30px;
 }
 
+.field p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.field input{
+    width: 100%;
+    margin-bottom: 20px;
+}
 
 .field input[type="text"]{
     border: none;
@@ -21,3 +31,4 @@
     color: #fff;
     font-size: 16px;
 }
+
