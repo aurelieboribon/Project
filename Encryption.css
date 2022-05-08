@@ -25,6 +25,8 @@ h1{
     padding:0 0 20px;
     text-align: center;
     font-size: 22px;
+    font-weight: bold;
+    color: #fb2525;
 }
 
 .encrypt p{
