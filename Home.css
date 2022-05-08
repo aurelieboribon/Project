@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(./images/background.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+  }
+
+h1{
+    top: 10%;
+    right: 40%;
+}
+
+.dimension{
+    width: 200px; 
+    height: 200px;
+    border-style: hidden;
+    text-align: center;
+}
+
+.row{
+    display:flex;
+    text-align: center;
+}
+
+.col{
+    flex-grow: 1;
+}
+
+.font{
+    font-family: 'Noto Sans', sans-serif;
+}
+    
