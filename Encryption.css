@@ -70,6 +70,12 @@ encrypt input[type="upload"]{
     border-radius: 20px;
 }
 
+.encrypt input[type="upload"]:hover{
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 20px;
+    color: black;
+  }
 
 .encrypt input[type="submit"]:hover{
   text-decoration: none;
