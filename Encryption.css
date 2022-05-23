@@ -50,16 +50,6 @@ h1{
     font-size: 16px;
 }
 
-encrypt input[type="upload"]{
-    border: none;
-    outline: none;
-    height: 20px;
-    background: #fb2525;
-    color: #fff;
-    font-size: 14px;
-    border-radius: 8px;
-}
-
 .encrypt input[type="submit"]{
     border: none;
     outline: none;
@@ -69,13 +59,6 @@ encrypt input[type="upload"]{
     font-size: 18px;
     border-radius: 20px;
 }
-
-.encrypt input[type="upload"]:hover{
-    text-decoration: none;
-    font-size: 18px;
-    line-height: 20px;
-    color: black;
-  }
 
 .encrypt input[type="submit"]:hover{
   text-decoration: none;
